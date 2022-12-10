@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "China",
+    "continent": "Asia",
+    "comment": "China is one of the most beautiful country.",
+    "coordinates": { "lat": 40.1, "long": 10.8 }
+  },
+  {
+    "id": 2,
+    "name": "England",
+    "continent": "Europe",
+    "comment": "England is one of the most famous country",
+    "coordinates": { "lat": 15.0, "long": 30.0 }
+  },
+  {
+    "id": 3,
+    "name": "Indiana",
+    "continent": "North America",
+    "comment": "Indiana is one of the most famous state in North America",
+    "coordinates": { "lat": 50.036, "long": 20.51 }
+  },
+  {
+    "id": 4,
+    "name": "Australia",
+    "continent": "Austrialia",
+    "comment": "Australia has one of the most famous state called Melbourne",
+    "coordinates": { "lat": 84.0, "long": 39.9 }
+  },
+  {
+    "id": 5,
+    "name": "Egypt",
+    "continent": "Africa",
+    "comment": "Egypt is one of the richest country in Africa continent",
+    "coordinates": { "lat": 23.32, "long": 90.09 }
+  }
+]
